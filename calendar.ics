@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Simple Auto Calendar//
+PRODID:-//Ergani Auto Calendar//
 BEGIN:VEVENT
 SUMMARY:Εργασία
 DTSTART:20251029T090000
